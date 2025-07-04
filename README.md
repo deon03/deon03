@@ -1,7 +1,7 @@
 <h1>Hi, I'm Gideon Adejoh!<br/>
 <a href="https://github.com/deon03">Frontend Developer</a>, 
-<a href="#">QA Tester</a>, 
-<a href="#">System Administrator</a></h1>
+<a href="#"> QA Tester</a>, 
+<a href="#"> System Administrator</a></h1>
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
