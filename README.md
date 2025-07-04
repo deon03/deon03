@@ -56,11 +56,18 @@
 </ul>
 
 <h2> 🤝 Let's Connect:</h2>
-<p>
-  <a href="https://www.linkedin.com/in/gideon-adejoh-02628222b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">LinkedIn</a> |
-  <a href="mailto:deon.adejoh@gmail.com">Email</a> |
-  <a href="https://github.com/deon03">GitHub</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/gideon-adejoh-02628222b" target="_blank">
+    <img alt="LinkedIn" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" style="margin-right:10px;" />
+  </a>
+  <a href="mailto:deon.adejoh@gmail.com" target="_blank">
+    <img alt="Email" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" style="margin-right:10px;" />
+  </a>
+  <a href="https://github.com/deon03" target="_blank">
+    <img alt="GitHub" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" style="margin-right:10px;" />
+  </a>
 </p>
+
 
 <!--
 **deon03/deon03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
